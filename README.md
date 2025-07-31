@@ -1,2 +1,4 @@
 # Risk-Profiling-Performance-Analysis-in-Consumer-Lending-Using-Excel
+The objective of this case study is to apply advanced data analysis techniques using Excel to deeply understand and effectively manage a loan portfolio. This involves assessing loan risk profiles, evaluating financial performance metrics, gaining insights into borrower behaviors, and ultimately, developing a comprehensive, interactive Excel dashboard. These efforts aim to provide strategic recommendations for optimizing loan portfolio management, mitigating risks, and enhancing decision-making processes for financial institutions and stakeholders in the consumer lending sector.
+
 **Dashboard link** - https://docs.google.com/spreadsheets/d/15sDan-LI8jnZ5LC6xYzN82_5CeZGYvu9/edit?usp=sharing&ouid=112633500626026739476&rtpof=true&sd=true
